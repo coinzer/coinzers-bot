@@ -1,0 +1,2 @@
+# coinzers-bot
+darkorbit-bot
